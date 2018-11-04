@@ -1,0 +1,32 @@
+[
+  {
+    "value": "happy",
+    "synonyms": [
+      "happy",
+      "cheerfull",
+      "diwali",
+      "festival",
+      "beautiful"
+    ]
+  },
+  {
+    "value": "sad",
+    "synonyms": [
+      "sad",
+      "bad"
+    ]
+  },
+  {
+    "value": "romantic",
+    "synonyms": [
+      "romantic"
+    ]
+  },
+  {
+    "value": "calm",
+    "synonyms": [
+      "calm",
+      "smooth"
+    ]
+  }
+]

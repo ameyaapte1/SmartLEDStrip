@@ -1,0 +1,69 @@
+[
+  {
+    "id": "ed805668-52fd-4dd1-9fbc-a31b06bfb781",
+    "data": [
+      {
+        "text": "Change the lighting mode to ",
+        "userDefined": false
+      },
+      {
+        "text": "romantic",
+        "alias": "mood",
+        "meta": "@mood",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541245367
+  },
+  {
+    "id": "ba054010-7750-42b0-a35d-a28462ce3093",
+    "data": [
+      {
+        "text": "I am in a ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "alias": "mood",
+        "meta": "@mood",
+        "userDefined": false
+      },
+      {
+        "text": " mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541245367
+  },
+  {
+    "id": "2e9fe13b-73b5-4fe8-a4a0-181149cf8158",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "cheerful",
+        "alias": "mood",
+        "meta": "@mood",
+        "userDefined": true
+      },
+      {
+        "text": " lighting in the ",
+        "userDefined": false
+      },
+      {
+        "text": "hall",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541223251
+  }
+]

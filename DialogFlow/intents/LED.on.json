@@ -1,0 +1,33 @@
+{
+  "id": "d81b792a-6f91-4f71-8be3-6df1d4aca648",
+  "name": "LED.on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": "I will switch on the lights"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Switching on the lights"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540993738,
+  "fallbackIntent": false,
+  "events": []
+}

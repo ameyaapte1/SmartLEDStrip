@@ -1,0 +1,37 @@
+{
+  "id": "0499e286-6a10-4a49-b320-fc175ac6263f",
+  "name": "LED.changeStyle",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "78ea6ea0-6beb-421a-9095-eadf39af49af",
+          "required": false,
+          "dataType": "@mood",
+          "name": "mood",
+          "value": "$mood",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541245435,
+  "fallbackIntent": false,
+  "events": []
+}

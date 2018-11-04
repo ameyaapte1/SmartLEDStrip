@@ -1,0 +1,95 @@
+{
+  "id": "d2f0fef5-5d76-41ca-aa1e-8711e68bb8d5",
+  "name": "LED.changeColor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Led.changeColor",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "272749dd-af26-4875-895b-cca8b7656a3a",
+          "required": true,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Red"
+            },
+            {
+              "lang": "en",
+              "value": "Blue"
+            },
+            {
+              "lang": "en",
+              "value": "Green"
+            },
+            {
+              "lang": "en",
+              "value": "Orange"
+            },
+            {
+              "lang": "en",
+              "value": "Yellow"
+            },
+            {
+              "lang": "en",
+              "value": "Pink"
+            },
+            {
+              "lang": "en-in",
+              "value": "Red"
+            },
+            {
+              "lang": "en-in",
+              "value": "Blue"
+            },
+            {
+              "lang": "en-in",
+              "value": "Green"
+            },
+            {
+              "lang": "en-in",
+              "value": "Orange"
+            },
+            {
+              "lang": "en-in",
+              "value": "Yellow"
+            },
+            {
+              "lang": "en-in",
+              "value": "Pink"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Changing hall lighting"
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": "Changing hall lighting"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540993409,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fb386745-3cdb-4601-9a96-14571084611c",
+  "name": "LED.off",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-in",
+          "speech": "I\u0027m switching the lights off"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541224585,
+  "fallbackIntent": false,
+  "events": []
+}
